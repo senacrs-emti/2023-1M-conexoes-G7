@@ -6,7 +6,7 @@ main{
 
 #pag1{
     background-color: rgb(99, 46, 155);
-    height: 1300px;
+    height: 1100px;
     width: 780px;
     margin-left: 235px;
     margin-top: 10px;
@@ -58,7 +58,7 @@ h1{
     font-size: 12.5px;
 }
 
-h4{
+.capaT{
     margin-left: 70px;
     font-family: Arial;
     color: white;
@@ -77,7 +77,7 @@ h5{
     margin-right: 70px ;
     font-family: Arial;  
     color: white;
-    font-size: 15px;
+    font-size: 14px;
 }
 
 a{
@@ -87,7 +87,7 @@ a{
 
 #pag2{
     background-color: white;
-    height: 1300px;
+    height: 1100px;
     width: 780px;
     margin-left: 235px;
     margin-top: 10px;
@@ -96,7 +96,7 @@ a{
 
 #pag3{
     background-color: white;
-    height: 1300px;
+    height: 1100px;
     width: 780px;
     margin-left: 235px;
     margin-top: 10px;
@@ -105,7 +105,7 @@ a{
 
 #pag4{
     background-color: white;
-    height: 1300px;
+    height: 1100px;
     width: 780px;
     margin-left: 235px;
     margin-top: 10px;
@@ -116,4 +116,29 @@ a{
     height: 60px;
     margin-left: 110px;
     margin-top: 50px;
+}
+
+.titulos{
+    margin-left: 70px;
+    font-family: Arial;
+    color: white;
+    color: rgb(99, 46, 155);
+    margin-left: 110px;
+}
+
+.textos{
+    margin-left: 110px;
+    margin-right: 110px;
+    margin-top: -5px;
+    font-family: Arial;  
+    font-size: 14px;
+
+}
+
+.textosCOMEÇO{
+    margin-left: 110px;
+    margin-right: 110px;
+    font-family: Arial;  
+    font-size: 14px;
+
 }
