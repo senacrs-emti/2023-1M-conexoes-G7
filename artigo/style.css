@@ -77,10 +77,9 @@ main{
 
 #pag1{
     background-color: rgb(99, 46, 155);
-    height: 1100px;
+    height: 1050px;
     width: 780px;
     margin-left: 235px;
-    margin-top: 10px;
     box-shadow: 1px 5px 10px;
 }
 
@@ -104,12 +103,14 @@ h1{
 }
 
 #email1{
+    margin-top: 5px;
     color: white;
     margin-left: 585px;
     font-family: Arial;  
 }
 
 #nomeinstituto1{
+    margin-top: 5px;
     color: white;
     margin-left: 280px ;
     font-family: Arial;
@@ -117,12 +118,14 @@ h1{
 }
 
 #email2{
+    margin-top: 5px;
     color: white;
     margin-left: 593px;
     font-family: Arial;  
 }
 
 #nomeinstituto2{
+    margin-top: 5px;
     color: white;
     margin-left: 530px;
     font-family: Arial;
@@ -130,13 +133,24 @@ h1{
 }
 
 .capaT{
+    margin-top: 5px;
     margin-left: 70px;
     font-family: Arial;
     color: white;
 
 }
 
+#capaT2{
+    margin-top: 5px;
+    margin-left: 230px;
+    margin-top: -17px;
+    font-family: Arial;
+    color: white;
+
+}
+
 h5{
+    margin-top: 5px;
     margin-left: 230px;
     margin-top: -37px;
     font-family: Arial;
@@ -144,6 +158,7 @@ h5{
 }
 
 #texto1{
+    margin-top: 5px;
     margin-left: 70px;
     margin-right: 70px ;
     font-family: Arial;  
@@ -158,7 +173,7 @@ a{
 
 #pag2{
     background-color: white;
-    height: 1100px;
+    height: 1050px;
     width: 780px;
     margin-left: 235px;
     margin-top: 17px;
@@ -167,7 +182,7 @@ a{
 
 #pag3{
     background-color: white;
-    height: 1100px;
+    height: 1050px;
     width: 780px;
     margin-left: 235px;
     margin-top: 17px;
@@ -176,7 +191,7 @@ a{
 
 #pag4{
     background-color: white;
-    height: 1100px;
+    height: 1050px;
     width: 780px;
     margin-left: 235px;
     margin-top: 17px;
@@ -185,7 +200,7 @@ a{
 
 #pag5{
     background-color: white;
-    height: 1100px;
+    height: 1050px;
     width: 780px;
     margin-left: 235px;
     margin-top: 17px;
@@ -194,7 +209,7 @@ a{
 
 #pag6{
     background-color: white;
-    height: 1100px;
+    height: 1050px;
     width: 780px;
     margin-left: 235px;
     margin-top: 17px;
@@ -203,7 +218,7 @@ a{
 
 #pag7{
     background-color: white;
-    height: 1100px;
+    height: 1050px;
     width: 780px;
     margin-left: 235px;
     margin-top: 17px;
@@ -212,7 +227,7 @@ a{
 
 #pag8{
     background-color: white;
-    height: 1100px;
+    height: 1050px;
     width: 780px;
     margin-left: 235px;
     margin-top: 17px;
@@ -221,7 +236,7 @@ a{
 
 #pag9{
     background-color: white;
-    height: 1100px;
+    height: 1050px;
     width: 780px;
     margin-left: 235px;
     margin-top: 17px;
@@ -230,7 +245,7 @@ a{
 
 #pag10{
     background-color: white;
-    height: 1100px;
+    height: 1050px;
     width: 780px;
     margin-left: 235px;
     margin-top: 17px;
@@ -244,6 +259,7 @@ a{
 }
 
 .titulos{
+    margin-top: 25px;
     margin-left: 70px;
     font-family: Arial;
     color: white;
@@ -252,17 +268,58 @@ a{
 }
 
 .textos{
+    margin-top: 5px;
     margin-left: 110px;
     margin-right: 110px;
-    margin-top: -5px;
     font-family: Arial;  
     font-size: 14px;
 
 }
 
 .textosCOMEÇO{
+    margin-top: 20px;
     margin-left: 110px;
     margin-right: 110px;
     font-family: Arial;  
     font-size: 14px;
+}
+
+.descrições{
+    font-size: 14px;
+    margin-bottom: 25px;
+}
+
+#figura1{
+    margin-top: 25px;
+    height: 300px ;
+    width: 400px;
+    margin-left: 190px;
+}
+
+#figura2{
+    margin-top: 25px;
+    height: 200px ;
+    width: 200px;
+    margin-left: 295px;
+}
+
+#figura3{
+    margin-top: 25px;
+    height: 70px ;
+    width: 450px;
+    margin-left: 170px;
+}
+
+#figura4{
+    margin-top: 25px;
+    height: 300px ;
+    width: 400px;
+    margin-left: 190px;
+}
+
+#figura5{
+    margin-top: 25px;
+    height: 200px ;
+    width: 400px;
+    margin-left: 190px;  
 }
