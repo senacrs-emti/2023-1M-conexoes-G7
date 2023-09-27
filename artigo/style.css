@@ -1,5 +1,5 @@
 main{ 
-    height: 8000px ;
+    height: 15500px ;
     width: 100%;
     background-color: rgb(82, 86, 89);;
 }
@@ -104,6 +104,60 @@ a{
 }
 
 #pag4{
+    background-color: white;
+    height: 1100px;
+    width: 780px;
+    margin-left: 235px;
+    margin-top: 17px;
+    box-shadow: 1px 5px 10px;
+}
+
+#pag5{
+    background-color: white;
+    height: 1100px;
+    width: 780px;
+    margin-left: 235px;
+    margin-top: 17px;
+    box-shadow: 1px 5px 10px;
+}
+
+#pag6{
+    background-color: white;
+    height: 1100px;
+    width: 780px;
+    margin-left: 235px;
+    margin-top: 17px;
+    box-shadow: 1px 5px 10px;
+}
+
+#pag7{
+    background-color: white;
+    height: 1100px;
+    width: 780px;
+    margin-left: 235px;
+    margin-top: 17px;
+    box-shadow: 1px 5px 10px;
+}
+
+#pag8{
+    background-color: white;
+    height: 1100px;
+    width: 780px;
+    margin-left: 235px;
+    margin-top: 17px;
+    box-shadow: 1px 5px 10px;
+}
+
+#pag9{
+    background-color: white;
+    height: 1100px;
+    width: 780px;
+    margin-left: 235px;
+    margin-top: 17px;
+    box-shadow: 1px 5px 10px;
+}
+
+#pag10{
     background-color: white;
     height: 1100px;
     width: 780px;
